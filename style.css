@@ -28,7 +28,7 @@
     display: flex;
     gap: 5px;
 }
-.fa-house-circle-exclamation{
+.fa-house{
     color: rgb(255, 64, 0);
 }
 .main-manu ul{
@@ -39,7 +39,7 @@
 }
 .nav-bar button{
     padding: 10px 15px;
-    background-color: rgb(241, 107, 62);
+    background-color: rgb(255, 98, 0);
     border: none;
     border-radius: 5px;
     color: white;
@@ -359,6 +359,79 @@
 .dream-home p{
     margin-top: 20px;
     margin-bottom: 40px;
+}
+.footer-sect{
+    background-color: wheat;
+    padding-top: 100px;
+    display: flex;
+}
+.footer-dwelling{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+.fa-house{
+    font-size: 22px;
+    color: rgb(255, 98, 0);
+}
+.footer-p-cls p{
+    color: #898888;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer-input{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.input-email-cls input{
+    background-color:wheat ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px rgb(195, 193, 193) solid;
+    
+}
+.footer-btn-sect{
+    display: flex;
+    gap: 80px;
+}
+.footer-flex-direction{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px;
+}
+.footer-manu-gap{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.footer-manu-gap p{
+    color: #898888;
+}
+.footer-icon{
+    background-color: wheat;
+}
+.icon-for-footer{
+    font-size: 30px;
+}
+.fa-facebook{
+    color: orangered;
+    padding-right: 10px;
+}
+.fa-linkedin{
+    color: blueviolet;
+    padding-right:10px;
+}
+.fa-twitter{
+    color: blueviolet;
+}
+.footer-for-flex{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 90px;
+}
+.copyright {
+    color: #898888;
 }
 
 
